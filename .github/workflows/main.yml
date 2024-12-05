@@ -60,4 +60,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kartiks02/cpsy-350-ci:latest
+          tags: virajj/cpsy-350-ci:latest
