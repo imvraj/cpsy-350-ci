@@ -1,1 +1,1 @@
-# ccpsy-350-ci
+# ccpsy-350-c
